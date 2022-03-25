@@ -1,0 +1,14 @@
+.message-get-vaccine{
+    margin-top: 1em;
+    padding-left: 3em;
+    font-size: 1.5em;
+    font-weight: 500;
+    color: rgb(54, 54, 54);
+}
+
+.message-should-vaccine{
+    margin-top: 1em;
+    font-size: 1.5em;
+    font-weight: 500;
+    color: rgb(54, 54, 54);
+}

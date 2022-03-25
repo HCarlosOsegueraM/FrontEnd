@@ -1,0 +1,14 @@
+.custom-card{
+    padding-bottom: 1em;
+    box-shadow: 2px 3px 10px 1px rgba(29, 29, 29, 0.2);
+    background-color : transparent;
+}
+.padding-content-card{
+    padding-left: 2em;
+}
+.padding-schedule-vaccination-text{
+    padding-bottom: 1em;
+}
+.brands{
+    padding-top: 5em;
+}
